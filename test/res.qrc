@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/bilibili.png</file>
+    <file>icons/csdn.png</file>
+    <file>icons/home.png</file>
+    <file>icons/icon-apple.png</file>
+    <file>icons/res.qrc</file>
+    <file>icons/叉号.png</file>
+    <file>icons/登录.png</file>
+    <file>icons/关闭.png</file>
+    <file>icons/腾讯视频.png</file>
+    <file>icons/退出 (1).png</file>
+    <file>icons/退出.png</file>
+    <file>icons/注册.png</file>
+    <file>icons/最小化.png</file>
+  </qresource>
+</RCC>

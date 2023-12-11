@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/登录.png</file>
+    <file>icons/关闭.png</file>
+    <file>icons/退出 (1).png</file>
+    <file>icons/退出.png</file>
+    <file>icons/注册.png</file>
+  </qresource>
+</RCC>
