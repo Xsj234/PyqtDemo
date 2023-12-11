@@ -9,6 +9,8 @@ import sys
 
 user_now = None
 
+ok = ""
+
 class LoginWindow(QMainWindow):
     def __init__(self):
         super().__init__()
