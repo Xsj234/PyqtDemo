@@ -621,7 +621,7 @@ QPushButton:hover{
                    </widget>
                   </item>
                   <item>
-                   <widget class="QPushButton" name="pushButton_L_sure">
+                   <widget class="QPushButton" name="pushButton_M_sure">
                     <property name="minimumSize">
                      <size>
                       <width>0</width>
@@ -647,8 +647,97 @@ QPushButton:hover{
                       <height>50</height>
                      </size>
                     </property>
+                    <property name="currentIndex">
+                     <number>0</number>
+                    </property>
                     <widget class="QWidget" name="page"/>
-                    <widget class="QWidget" name="page_2"/>
+                    <widget class="QWidget" name="page_2">
+                     <layout class="QHBoxLayout" name="horizontalLayout_7">
+                      <property name="spacing">
+                       <number>0</number>
+                      </property>
+                      <property name="leftMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="topMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="rightMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="bottomMargin">
+                       <number>0</number>
+                      </property>
+                      <item alignment="Qt::AlignHCenter">
+                       <widget class="QLabel" name="label_2">
+                        <property name="styleSheet">
+                         <string notr="true">color: rgb(255, 0, 0);</string>
+                        </property>
+                        <property name="text">
+                         <string>密码不能为空</string>
+                        </property>
+                       </widget>
+                      </item>
+                     </layout>
+                    </widget>
+                    <widget class="QWidget" name="page_3">
+                     <layout class="QHBoxLayout" name="horizontalLayout_8">
+                      <property name="spacing">
+                       <number>0</number>
+                      </property>
+                      <property name="leftMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="topMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="rightMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="bottomMargin">
+                       <number>0</number>
+                      </property>
+                      <item alignment="Qt::AlignHCenter">
+                       <widget class="QLabel" name="label_3">
+                        <property name="styleSheet">
+                         <string notr="true">color: rgb(255, 0, 0);</string>
+                        </property>
+                        <property name="text">
+                         <string>密码两次输入不同</string>
+                        </property>
+                       </widget>
+                      </item>
+                     </layout>
+                    </widget>
+                    <widget class="QWidget" name="page_4">
+                     <layout class="QHBoxLayout" name="horizontalLayout_9">
+                      <property name="spacing">
+                       <number>0</number>
+                      </property>
+                      <property name="leftMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="topMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="rightMargin">
+                       <number>0</number>
+                      </property>
+                      <property name="bottomMargin">
+                       <number>0</number>
+                      </property>
+                      <item alignment="Qt::AlignHCenter">
+                       <widget class="QLabel" name="label_4">
+                        <property name="styleSheet">
+                         <string notr="true">color: rgb(255, 176, 19);</string>
+                        </property>
+                        <property name="text">
+                         <string>密码修改成功</string>
+                        </property>
+                       </widget>
+                      </item>
+                     </layout>
+                    </widget>
                    </widget>
                   </item>
                  </layout>
